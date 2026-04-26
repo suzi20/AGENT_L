@@ -209,7 +209,7 @@ class ChatClient:
 
 # 初始化客户端
 client = ChatClient(
-    api_key="sk-33365590761c4e349834395404a259f5"
+    api_key="sk-"
 )
 
 # 测试1: 单轮对话
