@@ -462,7 +462,7 @@ def main():
     # 创建助手
     # 这里可以修改 api_key 和 base_url 来配置
     assistant = ChatAssistant(
-        api_key="sk-33365590761c4e349834395404a259f5",  # 替换为你的 API Key
+        api_key="sk-",  # 替换为你的 API Key
         base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",
         model="qwen-turbo"
     )
